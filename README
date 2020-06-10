@@ -1,0 +1,9 @@
+Give detailed instructions for how to run your code here.
+
+As our code uses Keras, you have to enter an environment which contains all of
+Keras's packages. Inputting the following statement in your terminal will place
+you in said environment: source /usr/swat/bin/CS63env. Aside from that, running
+our code is no different from running any python 3 code: python3 "python file".
+Ensure that the training and testing data are in the same directory as our code
+or the code will not be able to run. The files to run are the following:
+Old_sign_language_CNN.py, and New_sign_language_CNN.py
